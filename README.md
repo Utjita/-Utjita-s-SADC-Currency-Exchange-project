@@ -18,3 +18,4 @@ python cur_converter.py
 Your input is the amount of money you want to convert, from which currency to which currency.\
 ![](pic.png)
 "# -Utjita-s-SADC-Currency-Exchange-project" 
+"# -Utjita-s-SADC-Currency-Exchange-project" 
