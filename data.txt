@@ -1,0 +1,25 @@
+Namibian Dollar, 1
+|Angolan Kwanza, 45.96099876
+|Zimbabwean Dollar, 19.76249012
+|Botswana Pula, 0.732883409
+|South African Rand, 1
+|Congolese Franc, 139.209
+|Basotho Loti, 1
+|Tanzanian Shilling, 131.408
+|Mozambican Metical, 3.33108
+|US Dollar, 18.31246962
+|Mozambican Metical, 20.23059246
+|British Pound, 23.27741478
+|Japanese Yen, 7.8
+|Angolan Kwanza, 45.96099876
+|Zimbabwean Dollar, 19.76249012
+|Botswana Pula, 0.732883409
+|South African Rand, 1
+|Congolese Franc, 139.209
+|Basotho Loti, 1
+|Tanzanian Shilling, 131.408
+|Mozambican Metical, 3.33108
+|US Dollar, 18.31246962
+|Mozambican Metical, 20.23059246
+|British Pound, 23.27741478
+|Japanese Yen, 7.8
